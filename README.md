@@ -68,7 +68,7 @@ Analyse the data to determine if any of the portfolios outperform the stock mark
 *   Choose one portfolio, then calculate and plot the 60-day rolling beta between that portfolio and the S&P TSX 60.
 
 ##  Rolling Statistics Challenge: Exponentially Weighted Average
-An alternative method to calculate a rolling window is to find the exponentially weighted moving average. This is like a moving window average, but it assigns greater importance to more recent observations. Try calculating the ewm (Links to an external site.) with a 21-day half-life.
+An alternative method to calculate a rolling window is to find the exponentially weighted moving average. This is like a moving window average, but it assigns greater importance to more recent observations. Try calculating the ewm with a 21-day half-life.
 
 ## Sharpe Ratios
 Investment managers and their institutional investors look at the return-to-risk ratio, not just the returns. After all, if you have two portfolios that each offer a 10% return, yet one is lower risk, you would invest in the lower-risk portfolio, right? Follow these steps:
@@ -81,7 +81,7 @@ Investment managers and their institutional investors look at the return-to-risk
 
 You’re excited that you were able to prove that the algorithmic trading portfolios are doing so well compared to the market and whales portfolios. However, now you are wondering whether you can choose your own portfolio that performs just as well as the algorithmic portfolios. Investigate by doing the following:
 
-*   Use Google Sheets (Links to an external site.) and its built-in GOOGLEFINANCE function to choose 3–5 stocks for your portfolio.
+*   Use Google Sheets and its built-in GOOGLEFINANCE function to choose 3–5 stocks for your portfolio.
 
 *   Download the data as CSV files and calculate the portfolio returns.
 
@@ -102,4 +102,4 @@ You’re excited that you were able to prove that the algorithmic trading portfo
 
 # Expected Output
 
-<img src="./Images/Whale Homework.png" alt="Answers" height="1200" width="1200" />
+<img src="./Images/Whale Homework.png" alt="Answers" height="2500" width="1500" />
